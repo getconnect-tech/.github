@@ -1,5 +1,5 @@
 <a href="https://www.getconnect.tech">
-  <img alt="Connect is Open-source support system for saas business." src="banner.png">
+  <img alt="Connect is Open-source support system for saas business." src="https://github.com/getconnect-tech/.github/raw/main/banner.png">
 </a>
 
   <h3 align="center">Connect</h3>
